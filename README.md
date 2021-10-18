@@ -10,3 +10,7 @@ code uses: javascript for main purpose
 tap the randomize button to have random colour.
 
 visit me [https://istmeprincess.github.io/CandyRandomizer](https://istmeprincess.github.io/CandyRandomizer)
+
+
+
+if you are on smart-device you might be getting the background bit large, don't worry you can zoom up!
