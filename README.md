@@ -14,3 +14,4 @@ visit me [https://istmeprincess.github.io/CandyRandomizer](https://istmeprincess
 
 
 if you are on smart-device you might be getting the background bit large, don't worry you can zoom up!
+![image](https://user-images.githubusercontent.com/88629463/137675196-1cabd002-85b4-4f37-bce1-4930e71de8aa.png)
