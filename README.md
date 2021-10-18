@@ -6,3 +6,5 @@ Get started, randomize your website for free!
 ```
 code uses: javascript for main purpose
 ```
+![image](https://user-images.githubusercontent.com/88629463/137674460-3d75a64f-b1e6-4650-9f15-a21c758ba15c.png)
+tap the randomize button to have random colour.
